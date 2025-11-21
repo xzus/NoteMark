@@ -124,11 +124,7 @@ Before you get started, you'll need:
 
 Potential improvements:
 - Add tags/categories field
-- Save page content/highlights
-- Batch save multiple pages
 - Custom database property mapping
-- Right-click context menu support
-- Keyboard shortcuts
 
 ## License
 
